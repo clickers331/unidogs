@@ -81,7 +81,7 @@ p {
   padding: 2em;
   position: relative;
   isolation: isolate;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .container {
